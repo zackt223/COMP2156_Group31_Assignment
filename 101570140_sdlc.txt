@@ -5,3 +5,9 @@ DevOps practices reduce the time between writing code and deploying it to produc
 Continuous Integration (CI) ensures code changes are automatically tested
 and merged frequently. Continuous Delivery (CD) automates the release process,
 allowing teams to deploy reliable software at any time.
+
+Benefits of DevOps in the SDLC include:
+- Faster time to market
+- Improved collaboration between teams
+- Higher software quality through automated testing
+- Reduced deployment failures and faster recovery
