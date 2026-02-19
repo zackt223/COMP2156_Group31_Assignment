@@ -1,3 +1,7 @@
 DevOps plays a critical role in the Software Development Life Cycle (SDLC).
 It integrates development and operations teams to improve speed and quality of delivery.
 DevOps practices reduce the time between writing code and deploying it to production.
+
+Continuous Integration (CI) ensures code changes are automatically tested
+and merged frequently. Continuous Delivery (CD) automates the release process,
+allowing teams to deploy reliable software at any time.
