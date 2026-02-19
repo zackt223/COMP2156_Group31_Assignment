@@ -7,3 +7,8 @@ Tools covered in COMP2156 include:
 - Docker for containerization
 - Jenkins/GitHub Actions for CI/CD pipelines
 - Linux for system administration
+
+COMP2156 assessments include:
+- Group assignments focused on real-world DevOps workflows
+- Individual labs on Linux and scripting
+- A final project integrating all DevOps concepts learned
