@@ -1,17 +1,8 @@
-COMP2156\_Group31\_Assignment
+Group 31 Members
 
-## Group 30 Members
-===
+- Zackariah - 101561889 (Leader)
+- AJ - 101570140
+- Ham - 101569565
 
-# \- Zackariah - 101561889 (Leader)
-
-# \- AJ - 101570140
-
-# \- Hamza - 101569575
-
-# 
-
-# Course: COMP2156 - DevOps for System Administration
-
-# College: George Brown College
-
+Course: COMP2156 - DevOps for System Administration
+College: George Brown College
