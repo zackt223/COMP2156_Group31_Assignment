@@ -5,3 +5,7 @@ The college serves over 30,000 full-time students across multiple campuses.
 George Brown offers programs in Business, Technology, Health Sciences,
 Arts, Community Services, and Hospitality.
 Programs range from certificates and diplomas to bachelor degrees.
+
+COMP2156 - DevOps for System Administration teaches students
+how to bridge the gap between software development and IT operations.
+The course focuses on automation, collaboration, and continuous delivery.
