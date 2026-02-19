@@ -9,3 +9,8 @@ Programs range from certificates and diplomas to bachelor degrees.
 George Brown offers programs in Business, Technology, Health Sciences,
 Arts, Community Services, and Hospitality.
 Programs range from certificates and diplomas to bachelor degrees.
+
+George Brown has three main campuses:
+- St. James Campus (School of Business)
+- Casa Loma Campus (School of Technology)
+- Waterfront Campus (School of Health Sciences)
