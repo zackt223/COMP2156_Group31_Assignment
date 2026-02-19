@@ -1,0 +1,3 @@
+COMP2156 - DevOps for System Administration teaches students
+how to bridge the gap between software development and IT operations.
+The course focuses on automation, collaboration, and continuous delivery.
