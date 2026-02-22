@@ -12,3 +12,8 @@ COMP2156 assessments include:
 - Group assignments focused on real-world DevOps workflows
 - Individual labs on Linux and scripting
 - A final project integrating all DevOps concepts learned
+
+COMP2156 - DevOps for System Administration is a course at George Brown College
+that introduces students to the culture, practices, and tools of DevOps.
+The course focuses on breaking down barriers between development and operations teams
+to deliver software faster, more reliably, and at scale.
