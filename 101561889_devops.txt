@@ -24,3 +24,7 @@ Core tools and technologies taught in COMP2156:
 - Docker for building and managing containers
 - GitHub Actions/Travis CI for automating CI/CD workflows
 - Bash scripting for task automation
+
+COMP2156 prepares students for industry by simulating real DevOps team environments.
+Through group assignments and hands-on labs, students develop collaboration skills,
+learn to manage repositories, and build automated deployment pipelines from scratch.
