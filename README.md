@@ -1,6 +1,7 @@
 COMP2156\_Group31\_Assignment
 
-## Group 30 Members
+## Group 31 Members
+
 ===
 
 # \- Zackariah - 101561889 (Leader)
