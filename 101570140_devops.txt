@@ -1,14 +1,4 @@
-COMP2156 - DevOps for System Administration teaches students
-how to bridge the gap between software development and IT operations.
-The course focuses on automation, collaboration, and continuous delivery.
-
-Tools covered in COMP2156 include:
-- Git and GitHub for version control
-- Docker for containerization
-- Jenkins/GitHub Actions for CI/CD pipelines
-- Linux for system administration
-
-COMP2156 assessments include:
-- Group assignments focused on real-world DevOps workflows
-- Individual labs on Linux and scripting
-- A final project integrating all DevOps concepts learned
+COMP2156 is a hands-on DevOps course offered at George Brown College.
+It bridges the gap between software development and IT operations by teaching
+students the tools, workflows, and mindset required in modern DevOps roles.
+The course is designed to prepare students for real-world industry environments.
