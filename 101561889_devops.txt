@@ -17,3 +17,10 @@ COMP2156 - DevOps for System Administration is a course at George Brown College
 that introduces students to the culture, practices, and tools of DevOps.
 The course focuses on breaking down barriers between development and operations teams
 to deliver software faster, more reliably, and at scale.
+
+Core tools and technologies taught in COMP2156:
+- Git and GitHub for distributed version control
+- Linux command line for system administration tasks
+- Docker for building and managing containers
+- GitHub Actions/Travis CI for automating CI/CD workflows
+- Bash scripting for task automation
