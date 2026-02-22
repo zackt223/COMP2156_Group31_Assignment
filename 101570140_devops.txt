@@ -1,5 +1,4 @@
-Students in COMP2156 work with a range of industry-standard DevOps tools:
-- GitHub for version control, collaboration, and pull request workflows
-- Docker for containerizing and deploying applications consistently
-- GitHub Actions for setting up automated CI/CD pipelines
-- Linux and Bash for scripting and system-level automation tasks
+The course structure includes individual labs, group projects, and practical assessments.
+Students are evaluated based on their GitHub commit history, collaboration skills,
+and ability to set up and manage automated workflows independently.
+COMP2156 gives students a strong foundation for roles in cloud and DevOps engineering.
