@@ -1,4 +1,4 @@
-Studying DevOps as part of the SDLC is essential for any technology student today.
-The industry has shifted toward DevOps as the default way to build and run software.
-Engineers who understand CI/CD, automation, and collaborative workflows are in high demand
-and are consistently among the highest paid professionals in the technology sector.
+The Software Development Life Cycle (SDLC) is the process software teams follow
+to plan, develop, test, and release software in a structured and repeatable way.
+DevOps has revolutionized the SDLC by introducing automation and continuous delivery
+at every stage, replacing slow and manual processes with fast and reliable pipelines.
