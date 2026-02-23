@@ -2,3 +2,10 @@ The Software Development Life Cycle (SDLC) is a systematic process that guides
 software teams through the stages of building and maintaining software applications.
 DevOps has become an integral part of the modern SDLC, transforming how teams
 collaborate, automate, and deliver value to end users continuously and efficiently.
+
+DevOps enhances each stage of the SDLC through automation and collaboration:
+- Planning: Agile methodologies align teams around shared sprint goals
+- Development: Branching strategies keep code organized and conflict-free
+- Testing: Automated pipelines run tests on every single code commit
+- Delivery: CD pipelines push validated releases to production seamlessly
+- Operations: Monitoring tools provide real-time insights into system health
