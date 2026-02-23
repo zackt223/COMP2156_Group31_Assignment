@@ -8,3 +8,8 @@ Throughout COMP2156, students get hands-on experience with industry tools includ
 - Docker for creating portable and consistent application environments
 - CI/CD tools like GitHub Actions for automating testing and deployment
 - Linux and shell scripting for managing and automating server tasks
+
+COMP2156 is structured around real-world DevOps scenarios and team-based projects.
+Students are assessed on their ability to apply DevOps practices collaboratively,
+manage version-controlled codebases, and build functional CI/CD pipelines.
+The course builds a strong practical foundation for careers in DevOps and cloud computing.
