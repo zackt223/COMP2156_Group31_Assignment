@@ -1,4 +1,4 @@
-The course structure includes individual labs, group projects, and practical assessments.
-Students are evaluated based on their GitHub commit history, collaboration skills,
-and ability to set up and manage automated workflows independently.
-COMP2156 gives students a strong foundation for roles in cloud and DevOps engineering.
+COMP2156 is a hands-on DevOps course offered at George Brown College.
+It bridges the gap between software development and IT operations by teaching
+students the tools, workflows, and mindset required in modern DevOps roles.
+The course is designed to prepare students for real-world industry environments.
