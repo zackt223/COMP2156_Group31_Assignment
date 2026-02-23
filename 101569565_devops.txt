@@ -2,3 +2,9 @@ COMP2156 - DevOps for System Administration is a foundational course at George B
 that teaches students the principles and practices behind the DevOps movement.
 The course explores how modern software teams use DevOps to automate workflows,
 improve collaboration, and deliver software reliably and continuously.
+
+Throughout COMP2156, students get hands-on experience with industry tools including:
+- Git and GitHub for managing code and collaborating with teams
+- Docker for creating portable and consistent application environments
+- CI/CD tools like GitHub Actions for automating testing and deployment
+- Linux and shell scripting for managing and automating server tasks
