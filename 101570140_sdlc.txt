@@ -1,4 +1,5 @@
-Continuous Integration and Continuous Delivery (CI/CD) are the backbone of DevOps in the SDLC.
-CI ensures every code change is automatically built and tested upon commit.
-CD ensures that passing builds are automatically deployed to staging or production.
-Together they eliminate manual handoffs and dramatically reduce the risk of release failures.
+The key advantages of embedding DevOps into the SDLC include:
+- Releases that happen in hours instead of weeks or months
+- Automated testing that catches defects early and reduces rework
+- Continuous monitoring that improves system stability over time
+- Better collaboration between developers, testers, and operations staff
