@@ -1,12 +1,4 @@
-George Brown College is a public college located in Toronto, Ontario, Canada.
-It was founded in 1967 and is named after George Brown, a Father of Confederation.
-The college serves over 30,000 full-time students across multiple campuses.
-
-George Brown offers programs in Business, Technology, Health Sciences,
-Arts, Community Services, and Hospitality.
-Programs range from certificates and diplomas to bachelor degrees.
-
-George Brown has three main campuses:
-- St. James Campus (School of Business)
-- Casa Loma Campus (School of Technology)
-- Waterfront Campus (School of Health Sciences)
+George Brown College is a publicly funded college of applied arts and technology
+located in Toronto, Ontario, Canada. Since its founding in 1967, the college
+has been dedicated to providing students with career-ready education and training
+that meets the evolving demands of the modern workforce.
