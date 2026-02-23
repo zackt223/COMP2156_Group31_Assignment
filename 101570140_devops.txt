@@ -1,14 +1,4 @@
-COMP2156 - DevOps for System Administration teaches students
-how to bridge the gap between software development and IT operations.
-The course focuses on automation, collaboration, and continuous delivery.
-
-Tools covered in COMP2156 include:
-- Git and GitHub for version control
-- Docker for containerization
-- Jenkins/GitHub Actions for CI/CD pipelines
-- Linux for system administration
-
-COMP2156 assessments include:
-- Group assignments focused on real-world DevOps workflows
-- Individual labs on Linux and scripting
-- A final project integrating all DevOps concepts learned
+The course structure includes individual labs, group projects, and practical assessments.
+Students are evaluated based on their GitHub commit history, collaboration skills,
+and ability to set up and manage automated workflows independently.
+COMP2156 gives students a strong foundation for roles in cloud and DevOps engineering.
