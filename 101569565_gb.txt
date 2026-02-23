@@ -1,0 +1,20 @@
+<<<<<<< HEAD:101570140_gb.txt
+George Brown's three campuses are all located in downtown Toronto:
+- St. James Campus: The hub for Business and Arts programs
+- Casa Loma Campus: Home to Technology and Skilled Trades
+- Waterfront Campus: Dedicated to Health Sciences programs
+The downtown location gives students direct access to industry employers and networking.
+=======
+George Brown College is a public college located in Toronto, Ontario, Canada.
+It was founded in 1967 and is named after George Brown, a Father of Confederation.
+The college serves over 30,000 full-time students across multiple campuses.
+
+George Brown offers programs in Business, Technology, Health Sciences,
+Arts, Community Services, and Hospitality.
+Programs range from certificates and diplomas to bachelor degrees.
+
+George Brown has three main campuses:
+- St. James Campus (School of Business)
+- Casa Loma Campus (School of Technology)
+- Waterfront Campus (School of Health Sciences)
+>>>>>>> main:101569565_gb.txt
