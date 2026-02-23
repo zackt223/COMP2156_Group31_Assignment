@@ -1,4 +1,5 @@
-COMP2156 is a hands-on DevOps course offered at George Brown College.
-It bridges the gap between software development and IT operations by teaching
-students the tools, workflows, and mindset required in modern DevOps roles.
-The course is designed to prepare students for real-world industry environments.
+Students in COMP2156 work with a range of industry-standard DevOps tools:
+- GitHub for version control, collaboration, and pull request workflows
+- Docker for containerizing and deploying applications consistently
+- GitHub Actions for setting up automated CI/CD pipelines
+- Linux and Bash for scripting and system-level automation tasks
